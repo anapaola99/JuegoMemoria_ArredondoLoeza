@@ -1,0 +1,9 @@
+# Query: index.js
+# ContextLines: 1
+
+1 result - 1 file
+
+package-lock.json:
+  12864        "bin": {
+  12865:         "metro-symbolicate": "./src/index.js"
+  12866        },
